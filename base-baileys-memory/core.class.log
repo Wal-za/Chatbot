@@ -1,0 +1,176 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573103831904@s.whatsapp.net',
+    fromMe: false,
+    id: 'FF39BCD6DA748044FDFB33522E14D400',
+    participant: undefined
+  },
+  messageTimestamp: 1738797719,
+  pushName: '.',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola \nCómo estás',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola \nCómo estás',
+  from: '573103831904'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_73df43ab-6d25-49b9-b4cf-5d0add61101d',
+  keyword: 'key_ef014d6e-8dad-4238-9604-62687552899f',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '067a23a18aea1db34da3371182264670'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573103831904@s.whatsapp.net',
+    fromMe: false,
+    id: 'F6370D8C9485E55164566AF56933941E',
+    participant: undefined
+  },
+  messageTimestamp: 1738797729,
+  pushName: '.',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Excelente',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Excelente',
+  from: '573103831904'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_73df43ab-6d25-49b9-b4cf-5d0add61101d',
+  keyword: 'key_ef014d6e-8dad-4238-9604-62687552899f',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '067a23a18aea1db34da3371182264670'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573103831904@s.whatsapp.net',
+    fromMe: false,
+    id: '2B02099706338715DAF4B293E2843D0A',
+    participant: undefined
+  },
+  messageTimestamp: 1738797762,
+  pushName: '.',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Dime qué versión de gémini eres y si puedes guardar el hilo de la conversación',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Dime qué versión de gémini eres y si puedes guardar el hilo de la conversación',
+  from: '573103831904'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_73df43ab-6d25-49b9-b4cf-5d0add61101d',
+  keyword: 'key_ef014d6e-8dad-4238-9604-62687552899f',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '067a23a18aea1db34da3371182264670'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573103831904@s.whatsapp.net',
+    fromMe: false,
+    id: '3603EF32C32977F76F7EF01C00C250D4',
+    participant: undefined
+  },
+  messageTimestamp: 1738797800,
+  pushName: '.',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Cómo mantengo la sesion',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Cómo mantengo la sesion',
+  from: '573103831904'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_73df43ab-6d25-49b9-b4cf-5d0add61101d',
+  keyword: 'key_ef014d6e-8dad-4238-9604-62687552899f',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '067a23a18aea1db34da3371182264670'
+}
